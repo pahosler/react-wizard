@@ -8,6 +8,9 @@
 
 Making use of render props, @rahsheen/react-wizard allows you to control exactly how each step is rendered.
 
+## Installation
+`npm install @rasheen/react-wizard`
+
 ## Example
 
 ```javascript
